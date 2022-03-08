@@ -1,0 +1,117 @@
+                footer {
+                    margin-top: 70px;
+                    background-color: #2f2d2d;
+                    width: 100%;
+                }
+                
+                #row-footer {
+                    background-color: #2f2d2d;
+                }
+                
+                .item {
+                    margin-top: 20px;
+                    margin-left: 0px;
+                }
+                
+                .card-productos {
+                    flex: 1 190px;
+                    /*ancho de la card*/
+                    padding: 2px 5px 2px 5px;
+                    background-color: blanchedalmond;
+                    margin-right: 35px;
+                    margin-left: 24px;
+                    margin-top: 22px;
+                    margin-bottom: 12px;
+                    background-color: #484646;
+                    color: white;
+                }
+                
+                .card-body {
+                    width: 100%;
+                    background-color: #29292a;
+                    padding: 0px 5px 2px 5px;
+                }
+                
+                .btn-agregar {
+                    width: 100%;
+                    border-radius: 0px;
+                }
+                
+                body {
+                    background-color: #484646;
+                    color: white;
+                }
+                
+                .jumbotron {
+                    background-color: #272729;
+                    color: white;
+                }
+                
+                .caracteristicas {
+                    margin-bottom: 0px;
+                }
+                
+                .logo-kefi {
+                    border-radius: 60%;
+                }
+                
+                .cont-breadcrumb {
+                    background-color: #272729;
+                    width: 35%;
+                    margin-bottom: 5%;
+                    text-decoration: none;
+                }
+                
+                .breadcrumb-item {
+                    padding: 0;
+                    display: inline;
+                }
+                
+                #direccion {
+                    margin-bottom: 2%;
+                }
+                
+                tr>td:hover {
+                    background-color: white;
+                }
+                
+                #containerMedios,
+                #containerTarjetas {
+                    margin-top: -18%;
+                    width: 30rem;
+                    background-color: grey;
+                    color: white;
+                }
+                
+                .list-group-item {
+                    color: black;
+                }
+                
+                .nav-tabs {
+                    border: none;
+                }
+                
+                .btn-contacto {
+                    margin-left: 5%;
+                    margin-top: 4%;
+                    font-size: 1.5em;
+                    border-color: white;
+                }
+                
+                #recipient-name {
+                    margin-left: 5%;
+                }
+                
+                #message-text {
+                    width: 99%;
+                }
+                
+                #label-mess,
+                #label-email,
+                #label-tel {
+                    color: black;
+                }
+                
+                #header-cont {
+                    background-color: grey;
+                }
